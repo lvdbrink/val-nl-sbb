@@ -1,0 +1,2402 @@
+Validation Report
+Conforms: True
+Results (351):
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bak>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Begroeidterreindeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plantcover>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bord>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Buurt>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Landuse>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Functioneelgebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Landuse>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gebouwinstallatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Buildinginstallation>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Imgeo-object>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/_cityobject>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Inrichtingselement>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Installatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Kast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Kunstwerkdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/_site>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Mast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onbegroeidterreindeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Landuse>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Ondersteunendwaterdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Waterbody>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Ondersteunendwegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Auxiliarytrafficarea>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Ongeclassificeerdobject>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/_cityobject>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Openbareruimte>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Landuse>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Openbareruimtelabel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/_cityobject>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Overbruggingsdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bridgeconstructionelement>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Overigbouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/_site>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Overigeconstructie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/_site>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Overigescheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/_site>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Paal>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Pand>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Buildingpart>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Put>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Registratiefgebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Landuse>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Scheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/_site>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sensor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Spoor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Railway>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Stadsdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Landuse>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Straatmeubilair>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tunneldeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tunnelpart>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Vegetatieobject>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Solitaryvegetationobject>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Waterdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Waterbody>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Waterinrichtingselement>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Waterschap>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Landuse>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Wegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Trafficarea>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Weginrichtingselement>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cityfurniture>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-broaderGeneric
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Wijk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Landuse>
+	Result Path: isothes:broaderGeneric
+	Message: Value does not have class skos:Concept
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functieondersteunendwegdeel_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functieondersteunendwegdeel_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functiespoor_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functiespoor_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functiespoorplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functiespoorplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functieweg_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functieweg_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functiewegplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functiewegplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenbegroeidterrein_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenbegroeidterrein_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenbegroeidterreinplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenbegroeidterreinplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenonbegroeidterrein_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenonbegroeidterrein_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenonbegroeidterreinplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenonbegroeidterreinplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenondersteunendwegdeel_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenondersteunendwegdeel_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenondersteunendwegdeelplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenondersteunendwegdeelplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenweg_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenweg_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenwegplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenwegplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Inwinningsmethode_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Inwinningsmethode_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Roadfurnituretype_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Roadfurnituretype_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Status_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Status_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Statusplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Statusplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebak_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebak_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebakplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebakplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebord_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebord_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebordplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebordplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typefunctioneelgebied_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typefunctioneelgebied_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typefunctioneelgebiedplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typefunctioneelgebiedplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typegebouwinstallatie_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typegebouwinstallatie_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typegebouwinstallatieplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typegebouwinstallatieplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeinstallatie_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeinstallatie_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeinstallatieplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeinstallatieplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekast_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekast_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekastplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekastplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekunstwerk_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekunstwerk_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekunstwerkplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekunstwerkplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typemast_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typemast_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typemastplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typemastplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeondersteunendwaterdeel_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeondersteunendwaterdeel_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeopenbareruimte_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeopenbareruimte_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeoverbrugging_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeoverbrugging_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeoverbruggingsdeel_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeoverbruggingsdeel_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeoverigbouwwerk_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeoverigbouwwerk_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeoverigbouwwerkplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeoverigbouwwerkplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typepaal_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typepaal_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typepaalplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typepaalplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeput_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeput_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeputplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeputplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typescheiding_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typescheiding_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typescheidingplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typescheidingplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typesensor_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typesensor_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typesensorplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typesensorplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typestraatmeubilair_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typestraatmeubilair_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typestraatmeubilairplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typestraatmeubilairplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typevegetatieobject_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typevegetatieobject_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typevegetatieobjectplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typevegetatieobjectplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewater_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewater_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterinrichting_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterinrichting_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterinrichtingplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterinrichtingplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterplus_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterplus_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeweginrichting_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeweginrichting_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Collection-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/waardelijst/VoidReasonValue_1.0.0>
+	Result Path: skos:prefLabel
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/VoidReasonValue_1.0.0>->skos:prefLabel
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:ConceptScheme-label
+	Focus Node: <http://definities.geostandaarden.nl/imgeo>
+	Result Path: dct:title
+	Message: Less than 1 values on <http://definities.geostandaarden.nl/imgeo>->dct:title
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_functioneelGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_functioneelGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_kunstwerkdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_kunstwerkdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_overigBouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_overigBouwwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_scheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_scheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bodembedekkers_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bodembedekkers_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bodembedekkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bodembedekkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bosplantsoen_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bosplantsoen_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bosplantsoen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bosplantsoen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gras-EnKruidachtigen_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gras-EnKruidachtigen_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gras-EnKruidachtigen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gras-EnKruidachtigen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Groenvoorziening_fysiekVoorkomenBegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Groenvoorziening_fysiekVoorkomenBegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Groenvoorziening_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Groenvoorziening_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Heesters_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Heesters_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Heesters_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Heesters_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie_plaatsbepalingspunt>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie_plaatsbepalingspunt>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Naam_functioneelGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Naam_functioneelGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Naam_registratiefGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Naam_registratiefGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_functieSpoor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_functieSpoor>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeBak>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeBak>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeBord>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeBord>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeFunctioneelGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeFunctioneelGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeGebouwInstallatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeGebouwInstallatie>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeInstallatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeInstallatie>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeKast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeKast>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeKunstwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeKunstwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeMast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeMast>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeOverigBouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeOverigBouwwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typePaal>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typePaal>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typePut>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typePut>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeScheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeScheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeSensor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeSensor>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeStraatmeubilair>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeStraatmeubilair>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeVegetatieObject>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeVegetatieObject>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeWaterinrichting>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeWaterinrichting>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeWeginrichting>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeWeginrichting>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Planten_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Planten_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Planten_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Planten_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_bak>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_bak>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_bord>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_bord>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_functioneelGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_functioneelGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_installatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_installatie>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_kast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_kast>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_kunstwerkdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_kunstwerkdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_mast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_mast>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_ondersteunendWaterdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_ondersteunendWaterdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_overigBouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_overigBouwwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_overigeScheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_overigeScheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_paal>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_paal>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_put>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_put>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_scheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_scheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_sensor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_sensor>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_solitaryVegetationObject>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_solitaryVegetationObject>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_straatmeubilair>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_straatmeubilair>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_waterdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_waterdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_waterinrichtingselement>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_waterinrichtingselement>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_weginrichtingselement>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_weginrichtingselement>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Struikrozen_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Struikrozen_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Struikrozen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Struikrozen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieSpoor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieSpoor>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenBegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenBegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_inwinningsmethode>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_inwinningsmethode>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeKunstwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeKunstwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeOndersteunendWaterdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeOndersteunendWaterdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeOverigBouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeOverigBouwwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeScheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeScheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeWater>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeWater>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Asfalt_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/BetonElement_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Betonstraatstenen_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_functioneelGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_functioneelGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_kunstwerkdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_kunstwerkdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_overigBouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_overigBouwwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_scheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bgt-type_scheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bodembedekkers_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bodembedekkers_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bodembedekkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bodembedekkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Boomschors_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bosplantsoen_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bosplantsoen_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bosplantsoen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Bosplantsoen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Cementbeton_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GebakkenKlinkers_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/GeslotenVerharding_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gras-EnKruidachtigen_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gras-EnKruidachtigen_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gras-EnKruidachtigen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gras-EnKruidachtigen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grasklinkers_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Gravel_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Grind_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Groenvoorziening_fysiekVoorkomenBegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Groenvoorziening_fysiekVoorkomenBegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Groenvoorziening_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Groenvoorziening_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/HalfVerhard_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Heesters_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Heesters_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Heesters_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Heesters_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie_plaatsbepalingspunt>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie_plaatsbepalingspunt>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Naam_functioneelGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Naam_functioneelGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Naam_registratiefGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Naam_registratiefGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_functieSpoor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_functieSpoor>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeBak>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeBak>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeBord>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeBord>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeFunctioneelGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeFunctioneelGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeGebouwInstallatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeGebouwInstallatie>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeInstallatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeInstallatie>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeKast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeKast>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeKunstwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeKunstwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeMast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeMast>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeOverigBouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeOverigBouwwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typePaal>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typePaal>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typePut>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typePut>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeScheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeScheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeSensor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeSensor>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeStraatmeubilair>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeStraatmeubilair>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeVegetatieObject>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeVegetatieObject>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeWaterinrichting>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeWaterinrichting>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeWeginrichting>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Niet-bgt_typeWeginrichting>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Onverhard_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/OpenVerharding_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Planten_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Planten_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Planten_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Planten_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_bak>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_bak>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_bord>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_bord>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_functioneelGebied>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_functioneelGebied>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_installatie>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_installatie>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_kast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_kast>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_kunstwerkdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_kunstwerkdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_mast>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_mast>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_ondersteunendWaterdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_ondersteunendWaterdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_overigBouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_overigBouwwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_overigeScheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_overigeScheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_paal>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_paal>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_put>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_put>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_scheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_scheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_sensor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_sensor>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_solitaryVegetationObject>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_solitaryVegetationObject>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_straatmeubilair>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_straatmeubilair>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_waterdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_waterdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_waterinrichtingselement>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_waterinrichtingselement>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_weginrichtingselement>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_weginrichtingselement>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Puin_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Schelpen_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Sierbestrating_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Struikrozen_fysiekVoorkomenBegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Struikrozen_fysiekVoorkomenBegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Struikrozen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Struikrozen_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieSpoor>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieSpoor>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenBegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenBegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenOndersteunendWegdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenOndersteunendWegdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenWeg>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_fysiekVoorkomenWeg>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_inwinningsmethode>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_inwinningsmethode>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeKunstwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeKunstwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeOndersteunendWaterdeel>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeOndersteunendWaterdeel>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeOverigBouwwerk>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeOverigBouwwerk>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeScheiding>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeScheiding>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeWater>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeWater>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerrein>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerrein>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerreinPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOndersteunendWegdeelPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+Validation Result in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: skosapnl:Concept-UniquePrefLabelWithinSchemeShape
+	Focus Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenWegPlus>
+	Value Node: <http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenWegPlus>
+	Source Constraint: skosapnl:UniquePreflabelWithinConceptScheme
+	Message: Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader

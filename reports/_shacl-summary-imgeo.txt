@@ -1,0 +1,78 @@
+﻿CONFORMS	True
+RESULTS_TEXT_CHARS	174304
+RESULTS_TRIPLES	3103
+SEVERITY_COUNTS
+SEV	Warning	351
+CONSTRAINT_COUNTS
+CON	UniquePreflabelWithinConceptScheme	254	focus_unique=127
+CON	Collection-label	57	focus_unique=57
+CON	Concept-broaderGeneric	39	focus_unique=39
+CON	ConceptScheme-label	1	focus_unique=1
+MESSAGES
+MSG	254	Meerdere begrippen met dezelfde voorkeursterm binnen een begrippenkader
+MSG	39	Value does not have class skos:Concept
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo>->dct:title
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functieondersteunendwegdeel_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenweg_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenwegplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typesensor_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Status_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewater_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typepaal_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterinrichtingplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typegebouwinstallatie_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeput_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Inwinningsmethode_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functiewegplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typepaalplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typesensorplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Statusplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typestraatmeubilairplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typeputplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebord_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenonbegroeidterreinplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functiespoorplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typevegetatieobject_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typevegetatieobjectplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typefunctioneelgebied_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typegebouwinstallatieplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typescheiding_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebak_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekastplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekunstwerkplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typemast_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Roadfurnituretype_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typebordplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekast_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typefunctioneelgebiedplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typekunstwerk_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenbegroeidterreinplus_1.0.0>->skos:prefLabel
+MSG	1	Less than 1 values on <http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typemastplus_1.0.0>->skos:prefLabel
+EXAMPLES
+EX	UniquePreflabelWithinConceptScheme	http://definities.geostandaarden.nl/imgeo/id/begrip/Tegels_fysiekVoorkomenOnbegroeidTerreinPlus
+EX	UniquePreflabelWithinConceptScheme	http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenWegPlus
+EX	UniquePreflabelWithinConceptScheme	http://definities.geostandaarden.nl/imgeo/id/begrip/Identificatie
+EX	UniquePreflabelWithinConceptScheme	http://definities.geostandaarden.nl/imgeo/id/begrip/Plus-type_put
+EX	UniquePreflabelWithinConceptScheme	http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_functieSpoor
+EX	UniquePreflabelWithinConceptScheme	http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOndersteunendWegdeelPlus
+EX	UniquePreflabelWithinConceptScheme	http://definities.geostandaarden.nl/imgeo/id/begrip/Transitie_typeWater
+EX	UniquePreflabelWithinConceptScheme	http://definities.geostandaarden.nl/imgeo/id/begrip/Zand_fysiekVoorkomenOnbegroeidTerrein
+EX	ConceptScheme-label	http://definities.geostandaarden.nl/imgeo
+EX	Collection-label	http://definities.geostandaarden.nl/imgeo/id/waardelijst/Functieondersteunendwegdeel_1.0.0
+EX	Collection-label	http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenweg_1.0.0
+EX	Collection-label	http://definities.geostandaarden.nl/imgeo/id/waardelijst/Fysiekvoorkomenwegplus_1.0.0
+EX	Collection-label	http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typesensor_1.0.0
+EX	Collection-label	http://definities.geostandaarden.nl/imgeo/id/waardelijst/Status_1.0.0
+EX	Collection-label	http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewater_1.0.0
+EX	Collection-label	http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typepaal_1.0.0
+EX	Collection-label	http://definities.geostandaarden.nl/imgeo/id/waardelijst/Typewaterinrichtingplus_1.0.0
+EX	Concept-broaderGeneric	http://definities.geostandaarden.nl/imgeo/id/begrip/Bak
+EX	Concept-broaderGeneric	http://definities.geostandaarden.nl/imgeo/id/begrip/Ondersteunendwaterdeel
+EX	Concept-broaderGeneric	http://definities.geostandaarden.nl/imgeo/id/begrip/Openbareruimte
+EX	Concept-broaderGeneric	http://definities.geostandaarden.nl/imgeo/id/begrip/Pand
+EX	Concept-broaderGeneric	http://definities.geostandaarden.nl/imgeo/id/begrip/Vegetatieobject
+EX	Concept-broaderGeneric	http://definities.geostandaarden.nl/imgeo/id/begrip/Begroeidterreindeel
+EX	Concept-broaderGeneric	http://definities.geostandaarden.nl/imgeo/id/begrip/Inrichtingselement
+EX	Concept-broaderGeneric	http://definities.geostandaarden.nl/imgeo/id/begrip/Bord
+DONE
